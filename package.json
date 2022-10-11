@@ -9,7 +9,7 @@
         "url": "git+ssh://git@github.com/antoninastefanowska/expo-music-info.git"
     },
     "dependencies": {
-        "base-64": "^0.1.0",
+        "base-64": "^1.0.0",
         "expo-file-system": "~14.1.0"
     },
     "keywords": [
